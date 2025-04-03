@@ -132,5 +132,5 @@ Las contribuciones son siempre bienvenidas. Por favor, lee el archivo CONTRIBUTI
 
 ## 📄 Licencia
 
-Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](https://github.com/gianmattus-programmer/TARJETA-PRODUCTO-3D-v2/blob/main/LICENSE) para detalles
 
