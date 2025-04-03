@@ -2,7 +2,7 @@
 
 Una tarjeta de producto interactiva y responsive que muestra un modelo de zapatillas Nike con diferentes variantes de color y tallas.
 
-![Vista previa del proyecto](./preview.png)
+![Vista previa del proyecto](./img/preview.png)
 
 ## ✨ Características
 
